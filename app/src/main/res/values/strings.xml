@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScreenPinning</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_pin">start screen pinning</string>
+    <string name="bt_unpin">exit screen pinning</string>
+    <string name="pin_info">It is screen pinning mode now!</string>
+    <string name="unpin_info">It is normal mode now!</string>
+</resources>
